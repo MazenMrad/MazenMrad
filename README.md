@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I’m a passionate developer who loves turning ideas into interactive experiences. I focus on game development, pixel art, and software design, constantly exploring how creativity and technology can blend to build something meaningful.</h4>
+<h3 align="left">I’m a passionate developer who loves turning ideas into interactive experiences. I focus on game development, pixel art, and software design, constantly exploring how creativity and technology can blend to build something meaningful.</h3>
 
 ###
 
@@ -47,8 +47,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/aseprite/aseprite/main/data/icons/ase128.png" height="40" alt="github logo" >
-  
+  <img src="https://raw.githubusercontent.com/aseprite/aseprite/main/data/icons/ase128.png" height="40" alt="aseprite" >
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/JannisX11/blockbench/master/icon.png" height="40" alt="blockbench logo" >
 </div>
 
 ###
