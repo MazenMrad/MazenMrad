@@ -3,7 +3,6 @@
 ###
 
 <h3 align="left">I’m a passionate developer who loves turning ideas into interactive experiences. I focus on game development, pixel art, and software design, constantly exploring how creativity and technology can blend to build something meaningful</h3>
-
 <h2 align="left">Still Working on godot based projects . . .</h2>
 
 
